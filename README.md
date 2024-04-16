@@ -7,4 +7,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-netlify deployed link = "https://661dcdcff4d28763765988a4--block28workshopdc.netlify.app/Red"
+netlify deployed link = "https://661dcdcff4d28763765988a4--block28workshopdc.netlify.app"
